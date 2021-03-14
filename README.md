@@ -1,3 +1,5 @@
+<div dir="rtl">
+
 # گۆڕینی ژمارە بۆ نوسراوی کوردی ناوەندی
 
 ## Introduction
@@ -22,7 +24,7 @@ System.out.println(NumberToKurdishWords.convert(2021)); // دوو هەزار و 
 ```java
 System.out.println(NumberToKurdishWords.convert(250370891)); // دوو سەد و پەنجا ملیۆن و سێ سەد و حەفتا هەزار و هەشت سەد و نەوەد و یەک
 ```
-
+<div>
 
 
 ## Version Logs
