@@ -1,4 +1,5 @@
 <div dir="rtl">
+
 # گۆڕینی ژمارە بۆ نوسراوی کوردی ناوەندی
 
 ## Introduction
@@ -15,6 +16,7 @@ import KurdishNumberToWords.NumberToKurdishWords;
 ```
 
 <div dir="rtl">
+
 ### بۆ گۆڕینی ژمارە بۆ نوسراوی کوردی
 کاتێک فایلەکە بە سەرکەوتویی زیادکرا بۆ پاکێجەکەت، ئەوا ڕاستەوخۆ بە بەکارهێنانی مێثۆدی ***convert*** لە کلاسی **NumberToKurdishWords** ئەتوانیت گۆڕانکاریەکە ئەنجام بدەیت
 </div>
@@ -24,6 +26,7 @@ System.out.println(NumberToKurdishWords.convert(2021)); // دوو هەزار و 
 ```
 
 <div dir="rtl">
+
 ### تەنها کۆپی کردنی **NumberToKurdishWords** بۆ پاکێجێکی پرۆژەکەت
 زیادکردنی فایلی **NumberToKurdishWords** بۆ پرۆجێکتەکەت تەنها وا دەکات ڕاستەوخۆ بتوانی مێثۆدی **convert** بەکاربهێنیت لە کلاسەکاندا
 </div>
