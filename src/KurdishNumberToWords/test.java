@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author Click
  */
-public class NumberToWords {
+public class test {
 
     /**
      * @param args the command line arguments
