@@ -26,8 +26,7 @@ import KurdishNumberToWords.NumberToKurdishWords;
 System.out.println(NumberToKurdishWords.convert(2021)); // دوو هەزار و بیست و یەک
 ```
 
-</br></br>
-
+</br>
 <div dir="rtl">
 
 ### تەنها کۆپی کردنی **NumberToKurdishWords** بۆ پاکێجێکی پرۆژەکەت
