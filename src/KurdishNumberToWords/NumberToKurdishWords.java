@@ -98,7 +98,7 @@ public class NumberToKurdishWords {
         if (number == 0) {
             return soFar;
         }
-        return numNames[number] + " سەد" + " و" + soFar;
+        return soFar.equals("") ? numNames[number] + " سەد" + soFar : numNames[number] + " سەد" + " و" + soFar;
     }
 
     //bo danany (و) la newan zhmarakan
