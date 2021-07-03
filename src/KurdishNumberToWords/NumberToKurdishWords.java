@@ -40,7 +40,7 @@ public class NumberToKurdishWords {
             tradBillions = "";
         } else {
             tradBillions = convertLessThanOneThousand(billions)
-                    + setAnd(Integer.parseInt(snumber.substring(0, 12)), 1000000000, " بلیۆن");
+                    + setAnd(Integer.parseInt(snumber.substring(0, 12)), 1000000000, " ملیار");
         }
         String result = tradBillions;
 
